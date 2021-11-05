@@ -1,1 +1,1 @@
-##grades school management system with C Language
+# grades school management system with C Language
